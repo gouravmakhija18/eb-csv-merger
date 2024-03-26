@@ -1,5 +1,5 @@
-# Electoral Bond Data Merger
-This repo is used only for learning purpose which use live data of electoral bond pdf files uploaded on eci website and convert them into CSV file and make relation in between purchaser and redeemer based on unique identification number (UV light Bond number)
+# CSV Data Merger
+This repo is used only for learning purpose which use live data of EB text files and convert them into CSV file and make relation in between purchaser and redeemer based on unique identification number
 
 ## Instruction how to see output file
 1. Download this repo using git link
@@ -11,5 +11,5 @@ This repo is used only for learning purpose which use live data of electoral bon
   b) eb_redemption_details.csv - it contain electoral bond redemption information
   c) merged_eb_file.csv - It is combined final output file which is having purchaser and redemption relation based on common unique bond number
 
-## Source:
+## Text Reference source
 https://www.eci.gov.in/disclosure-of-electoral-bonds
